@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "c863f3abd091e449",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e44efe60dde31e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24b3f3c76c0d4f25",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "NPC/Священник.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c49660316e95d8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ca7d676f78b0631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "250089a3f7ea86e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4da3a9b21e6e35d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8768c37d9001f37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "204bb1040bccfa03",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c7b6bbcdcf7e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d8025feb0b79131",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPC/Священник.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6c2f1854f82a6b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NPC/Священник.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91628a0a6ad90a01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c60aa05d0195e4ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPC/Священник.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24b3f3c76c0d4f25",
+  "lastOpenFiles": [
+    "NPC/Священник.md",
+    "NPC/Священник.png",
+    "Candlekeep/Крепость свечей.md",
+    "Templates",
+    "Welcome.md",
+    "Candlekeep",
+    "NPC"
+  ]
+}
